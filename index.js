@@ -1,4 +1,4 @@
-// ========Bài 1========
+// ========Bài 1: Tính tiền lương nhân viên========
 // input: lương ngày, số ngày
 var daySalary = 100000;
 var day = 28;
@@ -11,7 +11,7 @@ console.log(earn);
 
 
 
-// ========Bài 2========
+// ========Bài 2: Tính giá trị trung bình========
 // input: 5 số thực
 var n1 = 1;
 var n2 = 3;
@@ -27,7 +27,7 @@ console.log(avg);
 
 
 
-// ========Bài 3========
+// ========Bài 3: Quy đổi tiền========
 // input: tỉ giấ USD sang VND
 var usd = 23500;
 // output: quy đổi sang VND
@@ -39,7 +39,7 @@ console.log(preciousPrice);
 
 
 
-// ========Bài 4========
+// ========Bài 4: Tính diện tích, chu vi HCN========
 // input: chiều dài, chiều rộng
 var a = 5;
 var b = 3;
@@ -54,7 +54,7 @@ console.log(area, perimeter);
 
 
 
-// ========Bài 5========
+// ========Bài 5: Tính tổng 2 ký số========
 // input: 1 nguyên có 2 ký số
 var n = 44;
 // output: số hàng đơn vị, số hàng chục, tổng 2 ký số
